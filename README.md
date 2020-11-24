@@ -5,7 +5,7 @@ Personal portfolio using plain HTML and CSS, a project from the [FreeCodeCamp Re
 ## User Stories:
 
 - [x] #0: Tech Stack
-- [ ] #1: My portfolio should have a welcome section with an id of welcome-section.
+- [x] #1: My portfolio should have a welcome section with an id of welcome-section.
 - [ ] #2: The welcome section should have an h1 element that contains text.
 - [ ] #3: My portfolio should have a projects section with an id of projects.
 - [ ] #4: The projects section should contain at least one element with a class of project-tile to hold a project.
