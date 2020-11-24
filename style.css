@@ -30,7 +30,12 @@ section {
   color: var(--cultured-white);
 }
 
-h1 {
+h1,
+h2 {
   font-family: "Cutive Mono", monospace;
   text-align: center;
+}
+
+#projects h2 {
+  color: var(--persian-green);
 }
