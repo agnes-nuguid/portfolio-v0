@@ -1,5 +1,9 @@
 # portfolio-v0
 
+![image](https://user-images.githubusercontent.com/22828458/100085607-333c8900-2e87-11eb-94ef-46b8c6a85b85.png)
+
+https://agnes-nuguid.github.io/portfolio-v0/
+
 Personal portfolio using plain HTML and CSS, a project from the [FreeCodeCamp Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
 ## User Stories:
