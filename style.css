@@ -18,6 +18,10 @@ body {
   font-family: "Cutive Mono", monospace;
 }
 
+h1 {
+  line-height: 50px;
+}
+
 a {
   text-decoration: none;
   color: var(--ruby);
@@ -72,13 +76,12 @@ nav ul li:hover {
   transform: scale(1.1);
 }
 
-section {
-  padding: 20px;
-}
-
 #welcome-section {
   background: var(--jet-black);
   color: var(--cultured-white);
+  height: 100vh;
+  display: flex;
+  align-items: center;
 }
 
 h1,
