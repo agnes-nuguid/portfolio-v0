@@ -11,7 +11,9 @@
 
 html,
 body {
+  background: #f4f7f5;
   background: var(--cultured-white);
+  color: #312f2f;
   color: var(--jet-black);
   margin: 0;
   scroll-behavior: smooth;
@@ -24,14 +26,17 @@ h1 {
 
 a {
   text-decoration: none;
+  color: #d81e5b;
   color: var(--ruby);
 }
 
 .ruby {
+  color: #d81e5b;
   color: var(--ruby);
 }
 
 .green {
+  color: #1b998b;
   color: var(--persian-green);
 }
 
@@ -45,6 +50,7 @@ header {
   font-weight: bold;
   position: fixed;
   width: 100%;
+  background: #312f2f;
   background: var(--jet-black);
   z-index: 2;
 }
@@ -58,6 +64,7 @@ header > .container {
 #logo {
   padding-top: 20px;
   align-self: flex-start;
+  color: #f4f7f5;
   color: var(--cultured-white);
 }
 
@@ -82,7 +89,9 @@ nav ul li:hover {
 }
 
 #welcome-section {
+  background: #312f2f;
   background: var(--jet-black);
+  color: #f4f7f5;
   color: var(--cultured-white);
   height: 100vh;
   display: flex;
@@ -96,6 +105,7 @@ h2,
 }
 
 #projects h2 {
+  color: #1b998b;
   color: var(--persian-green);
 }
 
@@ -109,6 +119,7 @@ h2,
   max-width: 350px;
   margin: 20px 0px;
   border-radius: 15px;
+  box-shadow: 0px 5px 5px 0px #a7a2a9;
   box-shadow: 0px 5px 5px 0px var(--silver-metallic);
   display: flex;
   flex-direction: column;
@@ -119,6 +130,7 @@ h2,
 
 .project-tile:hover {
   transform: scale(1.02);
+  box-shadow: 0px 10px 5px 0px #a7a2a9;
   box-shadow: 0px 10px 5px 0px var(--silver-metallic);
 }
 
